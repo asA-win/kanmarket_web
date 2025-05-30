@@ -1,0 +1,16 @@
+.login-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.login-buttons button {
+  background-color: #0033cc;
+}
+
+.login-buttons .social {
+  background-color: #ffffff;
+  color: #000;
+  border: 1px solid #ddd;
+}
